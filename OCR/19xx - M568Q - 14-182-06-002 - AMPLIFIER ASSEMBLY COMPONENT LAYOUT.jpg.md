@@ -20,7 +20,7 @@ Wiki page: [M568Q](../../../../PAGES/M568Q.md)
 - **Closed boxes:** 22
 - **Dots (junctions):** 1
 
-Every curve, box, word and wire group: [19xx - M568Q - 14-182-06-002 - AMPLIFIER ASSEMBLY COMPONENT LAYOUT (traced).json](../SCHEMATICS/19xx%20-%20M568Q%20-%2014-182-06-002%20-%20AMPLIFIER%20ASSEMBLY%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `19xx - M568Q - 14-182-06-002 - AMPLIFIER ASSEMBLY COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M568Q - 14-182-06-002 - AMPLIFIER ASSEMBLY COMPONENT LAYOUT (traced).json](../SCHEMATICS/19xx%20-%20M568Q%20-%2014-182-06-002%20-%20AMPLIFIER%20ASSEMBLY%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `19xx - M568Q - 14-182-06-002 - AMPLIFIER ASSEMBLY COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 

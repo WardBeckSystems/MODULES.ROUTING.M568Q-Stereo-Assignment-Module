@@ -21,7 +21,7 @@ Wiki page: [M568Q](../../../../PAGES/M568Q.md)
 - **Closed boxes:** 18
 - **Wiring (first pass):** 73 connected wire groups from 281 runs
 
-Every curve, box, word and wire group: [19xx - M568Q - 568-01-015 - STEREO ASSIGNMNET MODULE FUNC TIONAL (traced).json](../SCHEMATICS/19xx%20-%20M568Q%20-%20568-01-015%20-%20STEREO%20ASSIGNMNET%20MODULE%20FUNC%20TIONAL%20(traced).json) (the CAD file: `19xx - M568Q - 568-01-015 - STEREO ASSIGNMNET MODULE FUNC TIONAL (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M568Q - 568-01-015 - STEREO ASSIGNMNET MODULE FUNC TIONAL (traced).json](../SCHEMATICS/19xx%20-%20M568Q%20-%20568-01-015%20-%20STEREO%20ASSIGNMNET%20MODULE%20FUNC%20TIONAL%20%28traced%29.json) (the CAD file: `19xx - M568Q - 568-01-015 - STEREO ASSIGNMNET MODULE FUNC TIONAL (traced).dxf`).
 
 ## Full text
 

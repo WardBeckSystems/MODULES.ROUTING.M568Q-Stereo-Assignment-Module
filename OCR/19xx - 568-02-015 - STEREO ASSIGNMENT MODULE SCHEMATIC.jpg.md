@@ -32,7 +32,7 @@ Stereo assignment module schematic, title block at bottom left reading sideways.
 - **Dots (junctions):** 3
 - **Wiring (first pass):** 109 connected wire groups from 830 runs, 2 dotted junctions
 
-Every curve, box, word and wire group: [19xx - 568-02-015 - STEREO ASSIGNMENT MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20568-02-015%20-%20STEREO%20ASSIGNMENT%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - 568-02-015 - STEREO ASSIGNMENT MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 568-02-015 - STEREO ASSIGNMENT MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20568-02-015%20-%20STEREO%20ASSIGNMENT%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - 568-02-015 - STEREO ASSIGNMENT MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

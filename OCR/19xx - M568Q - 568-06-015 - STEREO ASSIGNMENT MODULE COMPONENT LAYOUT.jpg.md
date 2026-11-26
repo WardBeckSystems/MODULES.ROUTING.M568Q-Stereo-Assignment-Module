@@ -20,7 +20,7 @@ Wiki page: [M568Q](../../../../PAGES/M568Q.md)
 - **Closed boxes:** 18
 - **Dots (junctions):** 3
 
-Every curve, box, word and wire group: [19xx - M568Q - 568-06-015 - STEREO ASSIGNMENT MODULE COMPONENT LAYOUT (traced).json](../SCHEMATICS/19xx%20-%20M568Q%20-%20568-06-015%20-%20STEREO%20ASSIGNMENT%20MODULE%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `19xx - M568Q - 568-06-015 - STEREO ASSIGNMENT MODULE COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M568Q - 568-06-015 - STEREO ASSIGNMENT MODULE COMPONENT LAYOUT (traced).json](../SCHEMATICS/19xx%20-%20M568Q%20-%20568-06-015%20-%20STEREO%20ASSIGNMENT%20MODULE%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `19xx - M568Q - 568-06-015 - STEREO ASSIGNMENT MODULE COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 

@@ -19,7 +19,7 @@ Wiki page: [M568Q](../../../../PAGES/M568Q.md)
 - **Circles and arcs:** 19 circles, 0 arcs; largest r 5.2 @ (411.2, 148.6), r 5.2 @ (411.0, 189.4), r 5.2 @ (313.9, 90.2), r 5.2 @ (313.4, 195.2)
 - **Closed boxes:** 31
 
-Every curve, box, word and wire group: [19xx - M568Q - 568-04-015 - STEREO ASSIGNMENT MODULE LAYOUT (traced).json](../MECHANICAL/19xx%20-%20M568Q%20-%20568-04-015%20-%20STEREO%20ASSIGNMENT%20MODULE%20LAYOUT%20(traced).json) (the CAD file: `19xx - M568Q - 568-04-015 - STEREO ASSIGNMENT MODULE LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M568Q - 568-04-015 - STEREO ASSIGNMENT MODULE LAYOUT (traced).json](../MECHANICAL/19xx%20-%20M568Q%20-%20568-04-015%20-%20STEREO%20ASSIGNMENT%20MODULE%20LAYOUT%20%28traced%29.json) (the CAD file: `19xx - M568Q - 568-04-015 - STEREO ASSIGNMENT MODULE LAYOUT (traced).dxf`).
 
 ## Full text
 

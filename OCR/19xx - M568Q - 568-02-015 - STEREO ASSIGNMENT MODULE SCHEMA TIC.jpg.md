@@ -24,7 +24,7 @@ Wiki page: [M568Q](../../../../PAGES/M568Q.md)
 - **Title block:** (354, 22)–(421, 39) mm: WBS WARD-BECK · M568Q
 - **Wiring (first pass):** 101 connected wire groups from 779 runs, 2 dotted junctions
 
-Every curve, box, word and wire group: [19xx - M568Q - 568-02-015 - STEREO ASSIGNMENT MODULE SCHEMA TIC (traced).json](../SCHEMATICS/19xx%20-%20M568Q%20-%20568-02-015%20-%20STEREO%20ASSIGNMENT%20MODULE%20SCHEMA%20TIC%20(traced).json) (the CAD file: `19xx - M568Q - 568-02-015 - STEREO ASSIGNMENT MODULE SCHEMA TIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M568Q - 568-02-015 - STEREO ASSIGNMENT MODULE SCHEMA TIC (traced).json](../SCHEMATICS/19xx%20-%20M568Q%20-%20568-02-015%20-%20STEREO%20ASSIGNMENT%20MODULE%20SCHEMA%20TIC%20%28traced%29.json) (the CAD file: `19xx - M568Q - 568-02-015 - STEREO ASSIGNMENT MODULE SCHEMA TIC (traced).dxf`).
 
 ## Full text
 
