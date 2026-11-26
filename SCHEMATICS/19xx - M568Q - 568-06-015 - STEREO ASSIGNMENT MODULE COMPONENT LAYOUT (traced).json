@@ -1,0 +1,62 @@
+{
+ "drawing": "Modules/ROUTING/M568Q/SCHEMATICS/19xx - M568Q - 568-06-015 - STEREO ASSIGNMENT MODULE COMPONENT LAYOUT.jpg",
+ "version": 1,
+ "trace": "_traces/5898a97c675a8e19.svg",
+ "sheet": {
+  "number": "568-06-015",
+  "title": "Stereo Assignment Module Component Layout",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 90,
+  "px": [2000, 1404],
+  "mm": [431.8, 303.1],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [2.2, 0.4, 431.8, 284.6],
+ "outlines": {
+  "line": {"rings": 1732, "straight": {"n": 11126, "mm": 13731.2}, "curved": {"n": 3256, "mm": 3217.1}},
+  "text": {"rings": 242, "straight": {"n": 1438, "mm": 1253.1}, "curved": {"n": 516, "mm": 532.4}}
+ },
+ "circles": [
+  {"c": [363.6, 184.7], "r": 4.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [261.3, 222.1], "r": 3.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [261.9, 99.6], "r": 3.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [289.4, 96.3], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [349.6, 96.2], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [361.8, 137.0], "r": 1.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [414.7, 16.4], "r": 1.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [296.0, 221.5, 314.4, 227.8], "w": 18.4, "h": 6.3, "from": "ring"},
+  {"mm": [406.1, 200.6, 408.5, 203.6], "w": 2.4, "h": 3.0, "from": "ring"},
+  {"mm": [406.1, 190.0, 408.5, 193.0], "w": 2.4, "h": 3.0, "from": "ring"},
+  {"mm": [368.5, 170.8, 380.8, 179.8], "w": 12.3, "h": 9.1, "from": "ring"},
+  {"mm": [368.5, 160.2, 380.8, 169.3], "w": 12.3, "h": 9.1, "from": "ring"},
+  {"mm": [406.3, 163.0, 408.7, 166.2], "w": 2.4, "h": 3.2, "from": "ring"},
+  {"mm": [329.5, 150.3, 339.6, 156.6], "w": 10.1, "h": 6.3, "from": "ring"},
+  {"mm": [368.8, 144.0, 381.1, 153.1], "w": 12.4, "h": 9.1, "from": "ring"},
+  {"mm": [406.3, 146.8, 408.7, 149.8], "w": 2.4, "h": 3.0, "from": "ring"},
+  {"mm": [406.3, 136.2, 408.7, 139.3], "w": 2.4, "h": 3.0, "from": "ring"},
+  {"mm": [329.5, 128.7, 339.6, 135.2], "w": 10.1, "h": 6.5, "from": "ring"},
+  {"mm": [395.7, 125.9, 398.8, 129.1], "w": 3.0, "h": 3.2, "from": "ring"},
+  {"mm": [331.6, 90.5, 337.7, 105.6], "w": 6.0, "h": 15.1, "from": "ring"},
+  {"mm": [338.7, 90.5, 345.2, 105.6], "w": 6.5, "h": 15.1, "from": "ring"},
+  {"mm": [406.5, 100.8, 408.7, 104.1], "w": 2.2, "h": 3.2, "from": "ring"},
+  {"mm": [406.5, 90.2, 408.9, 93.5], "w": 2.4, "h": 3.2, "from": "ring"},
+  {"mm": [426.6, 3.0, 428.8, 5.6], "w": 2.2, "h": 2.6, "from": "ring"},
+  {"mm": [358.2, 2.8, 360.6, 5.4], "w": 2.4, "h": 2.6, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [{"c": [320.4, 229.9], "r": 1.2, "lines": 0}, {"c": [383.1, 205.4], "r": 0.6, "lines": 0}, {"c": [308.2, 103.2], "r": 0.6, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout 568-06-015, size B (assumed) 432 × 303 mm, 2000 × 1404 px traced (0.216 mm/px), turned 90°",
+  "- **Ink extent:** 2–432 mm across, 0–285 mm up",
+  "- **Outlines:** line 1,732 rings, 11,126 straight (13,731 mm) / 3,256 curved (3,217 mm); text 242 rings, 1,438 straight (1,253 mm) / 516 curved (532 mm)",
+  "- **Circles and arcs:** 7 circles, 0 arcs; largest r 4.0 @ (363.6, 184.7), r 3.4 @ (261.3, 222.1), r 3.4 @ (261.9, 99.6), r 1.7 @ (289.4, 96.3)",
+  "- **Closed boxes:** 18",
+  "- **Dots (junctions):** 3"
+ ]
+}
