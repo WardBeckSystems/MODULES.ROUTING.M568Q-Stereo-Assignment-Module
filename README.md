@@ -1,16 +1,16 @@
-# M568Q · Routing
+# M568Q Stereo Assignment Module · Routing
 
 Ward-Beck Systems M568Q. Wiki page: [M568Q on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M568Q.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 24 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 4 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 0 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 0 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 9 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 5 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 25 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 6 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 1 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 10 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 16 |
 
 ## Photos
@@ -51,6 +51,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - M568Q - 568-01-015 - STEREO ASSIGNMNET MODULE FUNC TIONAL.kicad_sch](KICAD/19xx%20-%20M568Q%20-%20568-01-015%20-%20STEREO%20ASSIGNMNET%20MODULE%20FUNC%20TIONAL.kicad_sch)
 - [19xx - M568Q - 568-02-015 - STEREO ASSIGNMENT MODULE SCHEMA TIC.kicad_sch](KICAD/19xx%20-%20M568Q%20-%20568-02-015%20-%20STEREO%20ASSIGNMENT%20MODULE%20SCHEMA%20TIC.kicad_sch)
 - [M568Q.kicad_sym](KICAD/M568Q.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
