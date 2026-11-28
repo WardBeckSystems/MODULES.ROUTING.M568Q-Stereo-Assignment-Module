@@ -1,5 +1,5 @@
 # 19xx - M568Q - 568-02-015 - STEREO ASSIGNMENT MODULE SCHEMA TIC.jpg
-Wiki page: [M568Q](../../../../PAGES/M568Q.md)
+Wiki page: [M568Q](../)
 
 
 - **Year:** unknown (unknown)

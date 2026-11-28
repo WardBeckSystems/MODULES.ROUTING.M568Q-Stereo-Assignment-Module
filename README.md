@@ -1,6 +1,6 @@
 # M568Q Stereo Assignment Module · Routing
 
-Ward-Beck Systems M568Q. Wiki page: [M568Q on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M568Q.html)
+Ward-Beck Systems M568Q. Wiki page: [M568Q on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M568Q-Stereo-Assignment-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

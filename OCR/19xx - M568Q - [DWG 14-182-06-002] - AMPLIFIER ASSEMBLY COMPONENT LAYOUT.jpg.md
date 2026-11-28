@@ -1,5 +1,5 @@
 # 19xx - M568Q - 14-182-06-002 - AMPLIFIER ASSEMBLY COMPONENT LAYOUT.jpg
-Wiki page: [M568Q](../../../../PAGES/M568Q.md)
+Wiki page: [M568Q](../)
 
 
 - **Year:** unknown (unknown)

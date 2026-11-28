@@ -1,5 +1,5 @@
 # 19xx - M568Q - 568-01-015 - STEREO ASSIGNMNET MODULE FUNC TIONAL.jpg
-Wiki page: [M568Q](../../../../PAGES/M568Q.md)
+Wiki page: [M568Q](../)
 
 
 - **Year:** unknown (unknown)

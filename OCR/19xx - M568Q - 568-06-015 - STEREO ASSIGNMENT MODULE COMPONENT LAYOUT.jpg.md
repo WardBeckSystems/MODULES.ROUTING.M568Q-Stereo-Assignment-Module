@@ -1,5 +1,5 @@
 # 19xx - M568Q - 568-06-015 - STEREO ASSIGNMENT MODULE COMPONENT LAYOUT.jpg
-Wiki page: [M568Q](../../../../PAGES/M568Q.md)
+Wiki page: [M568Q](../)
 
 
 - **Year:** unknown (unknown)
