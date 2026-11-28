@@ -4,13 +4,10 @@ Ward-Beck Systems M568Q. Wiki page: [M568Q on WBSps.ca](https://wardbecksystems.
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 25 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 6 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 1 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 10 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 24 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 7 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 9 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 5 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 16 |
 
 ## Photos
@@ -45,22 +42,18 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKM0lXMmdIWVByWVE/view?resourcekey=0-OTpKcX8lHUzaDYo-xn5XOw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKM0lXMmdIWVByWVE&resourcekey=0-OTpKcX8lHUzaDYo-xn5XOw" width="240" alt="19xx - M568Q - [DWG 14-182-02-002].jpg"></a><br><sub>19xx - M568Q - [DWG 14-182-02-002] · <a href="SCHEMATICS/19xx%20-%20M568Q%20-%20%5BDWG%2014-182-02-002%5D%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbGpWVXJaSHh6RVU/view?resourcekey=0-lVOwU4_zJIgZx3KeK1fGAw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbGpWVXJaSHh6RVU&resourcekey=0-lVOwU4_zJIgZx3KeK1fGAw" width="240" alt="19xx - M568Q - [DWG 14-182-06-002] - AMPLIFIER ASSEMBLY COMPONENT LAYOUT.jpg"></a><br><sub>19xx - M568Q - [DWG 14-182-06-002] - AMPLIFIER ASSEMBLY COMPONENT LAYOUT · <a href="SCHEMATICS/19xx%20-%20M568Q%20-%20%5BDWG%2014-182-06-002%5D%20-%20AMPLIFIER%20ASSEMBLY%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZkllVTdJc0s0bDg/view?resourcekey=0-HlVjOjFvL8ytl8BmRHXFxw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZkllVTdJc0s0bDg&resourcekey=0-HlVjOjFvL8ytl8BmRHXFxw" width="240" alt="19xx - M568Q - 568-01-015 - STEREO ASSIGNMNET MODULE FUNC TIONAL.jpg"></a><br><sub>19xx - M568Q - 568-01-015 - STEREO ASSIGNMNET MODULE FUNC TIONAL · <a href="SCHEMATICS/19xx%20-%20M568Q%20-%20568-01-015%20-%20STEREO%20ASSIGNMNET%20MODULE%20FUNC%20TIONAL%20(EXTRACTED).svg">vectors</a></sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQ1p6UzVTUUkybU0/view?resourcekey=0-tc-bLaN00toxhkajNYITIA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQ1p6UzVTUUkybU0&resourcekey=0-tc-bLaN00toxhkajNYITIA" width="240" alt="19xx - M568Q - 568-02-015 - STEREO ASSIGNMENT MODULE SCHEMA TIC.jpg"></a><br><sub>19xx - M568Q - 568-02-015 - STEREO ASSIGNMENT MODULE SCHEMA TIC · <a href="SCHEMATICS/19xx%20-%20M568Q%20-%20568-02-015%20-%20STEREO%20ASSIGNMENT%20MODULE%20SCHEMA%20TIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRDE5R1RFWklERFE/view?resourcekey=0-zn8mwZhaPYp5MNDQ9iHUpg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRDE5R1RFWklERFE&resourcekey=0-zn8mwZhaPYp5MNDQ9iHUpg" width="240" alt="19xx - M568Q - 568-06-015 - STEREO ASSIGNMENT MODULE COMPONENT LAYOUT.jpg"></a><br><sub>19xx - M568Q - 568-06-015 - STEREO ASSIGNMENT MODULE COMPONENT LAYOUT · <a href="SCHEMATICS/19xx%20-%20M568Q%20-%20568-06-015%20-%20STEREO%20ASSIGNMENT%20MODULE%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZkllVTdJc0s0bDg/view?resourcekey=0-HlVjOjFvL8ytl8BmRHXFxw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZkllVTdJc0s0bDg&resourcekey=0-HlVjOjFvL8ytl8BmRHXFxw" width="240" alt="19xx - M568Q - 568-01-015 - STEREO ASSIGNMNET MODULE FUNC TIONAL.jpg"></a><br><sub>19xx - M568Q - 568-01-015 - STEREO ASSIGNMNET MODULE FUNC TIONAL · <a href="SCHEMATICS/19xx%20-%20M568Q%20-%20568-01-015%20-%20STEREO%20ASSIGNMNET%20MODULE%20FUNC%20TIONAL%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQ1p6UzVTUUkybU0/view?resourcekey=0-tc-bLaN00toxhkajNYITIA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQ1p6UzVTUUkybU0&resourcekey=0-tc-bLaN00toxhkajNYITIA" width="240" alt="19xx - M568Q - 568-02-015 - STEREO ASSIGNMENT MODULE SCHEMA TIC.jpg"></a><br><sub>19xx - M568Q - 568-02-015 - STEREO ASSIGNMENT MODULE SCHEMA TIC · <a href="SCHEMATICS/19xx%20-%20M568Q%20-%20568-02-015%20-%20STEREO%20ASSIGNMENT%20MODULE%20SCHEMA%20TIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRDE5R1RFWklERFE/view?resourcekey=0-zn8mwZhaPYp5MNDQ9iHUpg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRDE5R1RFWklERFE&resourcekey=0-zn8mwZhaPYp5MNDQ9iHUpg" width="240" alt="19xx - M568Q - 568-06-015 - STEREO ASSIGNMENT MODULE COMPONENT LAYOUT.jpg"></a><br><sub>19xx - M568Q - 568-06-015 - STEREO ASSIGNMENT MODULE COMPONENT LAYOUT · <a href="SCHEMATICS/19xx%20-%20M568Q%20-%20568-06-015%20-%20STEREO%20ASSIGNMENT%20MODULE%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `19xx - 568-02-015 - STEREO ASSIGNMENT MODULE SCHEMATIC.jpg`
 
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
 - [19xx - 568-02-015 - STEREO ASSIGNMENT MODULE SCHEMATIC.kicad_sch](KICAD/19xx%20-%20568-02-015%20-%20STEREO%20ASSIGNMENT%20MODULE%20SCHEMATIC.kicad_sch)
-- [19xx - M568Q - [DWG 14-182-02-002].kicad_sch](KICAD/19xx%20-%20M568Q%20-%20%5BDWG%2014-182-02-002%5D.kicad_sch)
 - [19xx - M568Q - 568-01-015 - STEREO ASSIGNMNET MODULE FUNC TIONAL.kicad_sch](KICAD/19xx%20-%20M568Q%20-%20568-01-015%20-%20STEREO%20ASSIGNMNET%20MODULE%20FUNC%20TIONAL.kicad_sch)
 - [19xx - M568Q - 568-02-015 - STEREO ASSIGNMENT MODULE SCHEMA TIC.kicad_sch](KICAD/19xx%20-%20M568Q%20-%20568-02-015%20-%20STEREO%20ASSIGNMENT%20MODULE%20SCHEMA%20TIC.kicad_sch)
+- [19xx - M568Q - [DWG 14-182-02-002].kicad_sch](KICAD/19xx%20-%20M568Q%20-%20%5BDWG%2014-182-02-002%5D.kicad_sch)
 - [M568Q.kicad_sym](KICAD/M568Q.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
